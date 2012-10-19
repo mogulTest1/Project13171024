@@ -15,7 +15,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>JabbR 444</title>
+    <title>JabbR Fix</title>
     <meta http-equiv="X-UA-Compatible" content="IE=9" />
     <meta name="description" content="A real-time chat application." />
     <meta name="keywords" content="chat,realtime chat,signalr,jabbr" />
